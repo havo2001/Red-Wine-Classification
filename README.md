@@ -4,8 +4,7 @@ The dataset used in this project is the Red Wine Quality dataset, which contains
 ## Prerequisites
 Before running the Jupyter Notebook in this repository, you'll need the following:
 
-Python: Make sure you have Python installed on your system. You can download Python from the official website.
+Python: Make sure you have Python installed on your system.
+Jupyter Notebook: You can install Jupyter Notebook using `pip` by running `pip install notebook`.
 
-Jupyter Notebook: You can install Jupyter Notebook using pip by running pip install notebook.
-
-Python libraries: You will need several Python libraries, including NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn (for machine learning), and others. You can install them using pip or conda. To install all the required packages, you can run pip install -r requirements.txt.
+Python libraries: You will need several Python libraries, including NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn (for machine learning), and others. You can install them using `pip` or `conda`. 
